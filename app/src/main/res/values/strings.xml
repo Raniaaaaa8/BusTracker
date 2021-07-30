@@ -1,0 +1,303 @@
+<resources>
+
+
+    <string name="app_name">BUSTRACKER</string>
+
+    <string name="title_activity_main">MainActivity</string>
+
+
+    <string-array name="stop_array">
+        <item>Place des Martyrs</item>
+        <item>GRANDE POSTE</item>
+        <item>Hussein Dey</item>
+        <item>La Glacière</item>
+        <item>DIAR DJEMAA</item>
+        <item>Bachdjerrah-1</item>
+        <item>DIAR DJEMAA-1</item>
+        <item>La Glacière-1</item>
+        <item>GRANDE POSTE-1</item>
+        <item>1er Mai</item>
+        <item>Hamma</item>
+        <item>OUED KNIS</item>
+        <item>Vieux Kouba-1</item>
+        <item>La Croix</item>
+        <item>Jardin d Essai</item>
+        <item>Le Moulin</item>
+        <item>Hôtel Es-Safir</item>
+        <item>Bouzareah</item>
+        <item>Pacale</item>
+        <item>Bibliothéque</item>
+        <item>CIté Gai Soleil</item>
+        <item>CNR</item>
+        <item>1er Mai-1</item>
+        <item>Jardin Tunis</item>
+        <item>Châteauneuf</item>
+        <item>Chevalley</item>
+        <item>Ecole Mohamed Baaziz</item>
+        <item>Station Aissat Idir</item>
+        <item>CAROBIER GARE ROUTIERE</item>
+        <item>5 MAISONS</item>
+        <item>Bab Ezzouar</item>
+        <item>Les hotels-1</item>
+        <item>Bab Ezzouar-1</item>
+        <item>5 MAISONS-1</item>
+        <item>LA GLACIERE-1</item>
+        <item>CAROBIER GARE ROUTIERE-1</item>
+        <item>Place du 11 Décembre</item>
+        <item>MAQUAM E CHAHID</item>
+        <item>BIR MOURAD RAIS</item>
+        <item>BIRKHADEM-1</item>
+        <item>STADE MOHAMED IGUER</item>
+        <item>Les Jasmins</item>
+        <item>FRERES MADANI</item>
+    </string-array>
+    <string-array name="Line_array">
+        <item>1 </item>
+        <item>-1</item>
+        <item>2</item>
+        <item>-2</item>
+        <item>3</item>
+        <item>-3</item>
+        <item>4</item>
+        <item>-4</item>
+        <item>5</item>
+        <item>-5</item>
+
+    </string-array>
+
+    <string-array name="placeDesMartyrs">
+        <item>GRANDE POSTE</item>
+        <item>Hussein Dey</item>
+        <item>La Glacière</item>
+        <item>DIAR DJEMAA</item>
+        <item>Bachdjerrah</item>
+        <item>1er Mai</item>
+        <item>Hamma</item>
+        <item>OUED KNIS</item>
+        <item>Vieux Kouba</item>
+
+    </string-array>
+
+    <string-array name="GrandePoste">
+        <item>Hussein Dey</item>
+        <item>La Glacière</item>
+        <item>DIAR DJEMAA</item>
+        <item>Bachdjerrah</item>
+        <item>1er Mai</item>
+        <item>Hamma</item>
+        <item>OUED KNIS</item>
+        <item>Vieux Kouba</item>
+    </string-array>
+    <string-array name="HusseinDey">
+        <item>La Glacière</item>
+        <item>DIAR DJEMAA</item>
+        <item>Bachdjerrah</item>
+    </string-array>
+    <string-array name="LaGlaciere">
+        <item>DIAR DJEMAA</item>
+        <item>Bachdjerrah</item>
+        <item>5 MAISONS</item>
+        <item>Bab Ezzouar</item>
+        <item>Les hotels</item>
+    </string-array>
+    <string-array name="DIARDJEMAA">
+        <item>Bachdjerrah</item>
+
+    </string-array>
+    <string-array name="Bachdjerrah1">
+        <item>DIAR DJEMAA-1</item>
+        <item>La Glacière-1</item>
+        <item>Hussein Dey-1</item>
+        <item>GRANDE POSTE-1</item>
+    </string-array>
+    <string-array name="DIARDJEMAA1">
+        <item>La Glacière-1</item>
+        <item>Hussein Dey-1</item>
+        <item>GRANDE POSTE-1</item>
+    </string-array>
+    <string-array name="LaGlacière1">
+        <item>Hussein Dey-1</item>
+        <item>GRANDE POSTE-1</item>
+        <item>CAROBIER GARE ROUTIERE-1</item>
+        <item>Station Aissat Idir-1</item>
+
+    </string-array>
+
+    <string-array name="GRANDEPOSTE1">
+        <item>Place des Martyrs-1</item>
+    </string-array>
+    <string-array name="PremierMai">
+        <item>Hamma</item>
+        <item>OUED KNIS</item>
+        <item>Vieux Kouba</item>
+        <item>Place du 11 Décembre</item>
+        <item>Jardin d Essai</item>
+        <item>MAQUAM E CHAHID</item>
+        <item>BIR MOURAD RAIS</item>
+        <item>BIRKHADEM</item>
+    </string-array>
+    <string-array name="Hamma">
+        <item>Vieux Kouba</item>
+        <item>OUED KNIS</item>
+
+    </string-array>
+    <string-array name="OUEDKNIS">
+        <item>Vieux Kouba</item>
+        <item>1er Mai-1</item>
+    </string-array>
+    <string-array name="VieuxKouba1">
+        <item>La Croix</item>
+        <item>Jardin d Essai</item>
+        <item>Le Moulin</item>
+        <item>Hôtel Es-Safir</item>
+        <item>Place des Martyrs-1</item>
+    </string-array>
+    <string-array name="LaCroix">
+        <item>Jardin d Essai</item>
+        <item>Le Moulin</item>
+        <item>Hôtel Es-Safir</item>
+        <item>Place des Martyrs-1</item>
+    </string-array>
+    <string-array name="JardindEssai">
+        <item>Le Moulin</item>
+        <item>Hôtel Es-Safir</item>
+        <item>Place des Martyrs-1</item>
+        <item>MAQUAM E CHAHID</item>
+        <item>BIR MOURAD RAIS</item>
+        <item>BIRKHADEM</item>
+    </string-array>
+    <string-array name="LeMoulin">
+        <item>Hôtel Es-Safir</item>
+        <item>Place des Martyrs-1</item>
+    </string-array>
+    <string-array name="HôtelEsSafir">
+        <item>Place des Martyrs-1</item>
+    </string-array>
+    <string-array name="Bouzareah">
+        <item>Pacale</item>
+        <item>Bibliothéque</item>
+        <item>CIté Gai Soleil</item>
+        <item>CNR</item>
+        <item>1er Mai</item>
+    </string-array>
+    <string-array name="Pacale">
+        <item>Bibliothéque</item>
+        <item>CIté Gai Soleil</item>
+        <item>CNR</item>
+        <item>1er Mai</item>
+    </string-array>
+    <string-array name="Bibliothéque">
+        <item>CIté Gai Soleil</item>
+        <item>CNR</item>
+        <item>1er Mai</item>
+    </string-array>
+    <string-array name="CNR">
+        <item>1er Mai</item>
+    </string-array>
+    <string-array name="BCItéGaiSoleil">
+        <item>CNR</item>
+        <item>1er Mai</item>
+    </string-array>
+
+    <string-array name="PremierMai1">
+        <item>Jardin Tunis</item>
+        <item>Châteauneuf</item>
+        <item>Chevalley</item>
+        <item>Ecole Mohamed Baaziz</item>
+        <item> Bouzareah</item>
+    </string-array>
+    <string-array name="JardinTunis">
+        <item>Châteauneuf</item>
+        <item>Chevalley</item>
+        <item>Ecole Mohamed Baaziz</item>
+        <item> Bouzareah</item>
+    </string-array>
+    <string-array name="Châteauneuf">
+        <item>Chevalley</item>
+        <item>Ecole Mohamed Baaziz</item>
+        <item> Bouzareah</item>
+    </string-array>
+    <string-array name="Chevalley">
+        <item>Ecole Mohamed Baaziz</item>
+        <item> Bouzareah</item>
+    </string-array>
+    <string-array name="EcoleMohamedBaaziz">
+        <item> Bouzareah</item>
+    </string-array>
+    <string-array name="StationAissatIdir">
+        <item>CAROBIER GARE ROUTIERE</item>
+        <item>LA GLACIERE</item>
+        <item>5 MAISONS</item>
+        <item>Bab Ezzouar</item>
+        <item>Les hotels</item>
+    </string-array>
+    <string-array name="CAROBIERGAREROUTIERE">
+        <item>LA GLACIERE</item>
+        <item>5 MAISONS</item>
+        <item>Bab Ezzouar</item>
+        <item>Les hotels</item>
+        <item>GRANDE POSTE-1</item>
+        <item>Place des Martyrs-1</item>
+    </string-array>
+    <string-array name="BabEzzouar">
+        <item>Les hotels</item>
+    </string-array>
+    <string-array name="Leshotels1">
+        <item>Bab Ezzouar-1</item>
+        <item>5 MAISONS-1</item>
+        <item>LA GLACIERE-1</item>
+        <item>CAROBIER GARE ROUTIERE-1</item>
+        <item>Station Aissat Idir-1</item>
+    </string-array>
+    <string-array name="BabEzzouar1">
+        <item>5 MAISONS-1</item>
+        <item>LA GLACIERE-1</item>
+        <item>CAROBIER GARE ROUTIERE-1</item>
+        <item>Station Aissat Idir-1</item>
+    </string-array>
+    <string-array name="CinqMAISONS1">
+        <item>LA GLACIERE-1</item>
+        <item>CAROBIER GARE ROUTIERE-1</item>
+        <item>Station Aissat Idir-1</item>
+    </string-array>
+    <string-array name="CAROBIERGAREROUTIERE1">
+        <item>Station Aissat Idir-1</item>
+    </string-array>
+    <string-array name="Placedu11Décembre">
+        <item>Jardin d Essai</item>
+        <item>MAQUAM E CHAHID</item>
+        <item>BIR MOURAD RAIS</item>
+        <item>BIRKHADEM</item>
+    </string-array>
+    <string-array name="MAQUAMECHAHID">
+        <item>BIR MOURAD RAIS</item>
+        <item>BIRKHADEM</item>
+    </string-array>
+    <string-array name="BIRMOURADRAIS">
+        <item>BIRKHADEM</item>
+    </string-array>
+    <string-array name="BIRKHADEM1">
+        <item>STADE MOHAMED IGUER</item>
+        <item>Les Jasmins</item>
+        <item>FRERES MADANI</item>
+        <item>Oued Kniss</item>
+        <item>1er Mai-1</item>
+    </string-array>
+    <string-array name="STADEMOHAMEDIGUER">
+        <item>Les Jasmins</item>
+        <item>FRERES MADANI</item>
+        <item>Oued Kniss</item>
+        <item>1er Mai-1</item>
+    </string-array>
+    <string-array name="LesJasmins">
+        <item>FRERES MADANI</item>
+        <item>Oued Kniss</item>
+        <item>1er Mai-1</item>
+    </string-array>
+    <string-array name="FRERESMADANI">
+        <item>Oued Kniss</item>
+        <item>1er Mai-1</item>
+    </string-array>
+
+
+</resources>

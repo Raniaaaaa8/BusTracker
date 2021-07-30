@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="1"
+    tools:context="com.example.win81.bustracker.AboutUs">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        >
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <View
+        android:layout_marginTop="5dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne1 : Place des Martyrs =>Bach Djarah"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Place des Martyrs"
+            android:padding="3dip" />
+
+
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      GRANDE POSTE"
+            android:padding="3dip" />
+
+
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      CAROBIER GARE ROUTIERE"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+    <TextView
+        android:layout_column="1"
+        android:text="      La Glacière"
+        android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      DIAR DJEMAA"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Bachdjerrah"
+            android:padding="3dip" />
+    </TableRow>
+
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne-1 : Bach Djarah =>Place des Martyrs"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Bach Djarah-1"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      DIAR DJEMAA-1"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      La Glacière-1"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      CAROBIER GARE ROUTIERE-1"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      GRANDE POSTE-1"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Place des Martyrs-1"
+            android:padding="3dip" />
+    </TableRow>
+
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne2 :Place des Martyrs => Vieux Kouba"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Place des Martyrs"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      GRANDE POSTE"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       1er Mai"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Hamma"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      OUED KNIS"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Vieux Kouba"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne-2 : Vieux Kouba => Place des Martyrs"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Vieux Kouba-1"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      La Croix"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       Jardin d'Essai"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Le Moulin"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Hôtel Es-Safir"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Place des Martyrs-1"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne3 : bouzareah =>1 er mai"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Bouzareah"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Pacale"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       Bibliothéque"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      CIté Gai Soleil"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      CNR"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      1er Mai"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne-3 :1 er mai => bouzareah"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      1er Mai-1"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Jardin Tunis"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       Châteauneuf"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Chevalley"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Ecole Mohamed Baaziz"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       Bouzareah"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne 4 :Place Aissat Idir => Bab ezzouar"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Station Aissat Idir"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      CAROBIER GARE ROUTIERE"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       LA GLACIERE"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      5 MAISONS"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Bab Ezzouar"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       Les hotels"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne-4 : Bab Ezzouar -> Place Aissat Idir - ETUSA"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Les hotels-1"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Bab Ezzouar-1"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       5 MAISONS-1"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      LA GLACIERE-1"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      CAROBIER GARE ROUTIERE-1"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       Station Aissat Idir-1"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne5 :1e Mai => Birkhadem"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      1er Mai"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Place du 11 Décembre"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       Jardin d'Essai"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      MAQUAM E'CHAHID"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      BIR MOURAD RAIS"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       BIRKHADEM"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="Ligne-5 :Birkhadem => 1e Mai"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      BIRKHADEM-1"
+            android:padding="3dip" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      STADE MOHAMED IGUER"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       Les Jasmins"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      FRERES MADANI"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="      Oued Kniss"
+            android:padding="3dip" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:layout_column="1"
+            android:text="       1er Mai-1"
+            android:padding="3dip" />
+    </TableRow>
+    <View
+        android:layout_height="2dip"
+        android:background="@color/backgroundcolor" />
+</TableLayout>
+</RelativeLayout>
+</ScrollView>
